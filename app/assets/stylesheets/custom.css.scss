@@ -9,8 +9,17 @@ body {
 
 .articles-panel {
   margin-top: 20px;
-  
+
   .article-title {
     font-size: 20px;
+  }
+}
+
+.detail-article {
+  .article-detail-title {
+    margin-bottom: 30px;
+  }
+  .article-detail-body {
+    margin-top: 30px;
   }
 }
